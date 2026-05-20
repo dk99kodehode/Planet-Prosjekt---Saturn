@@ -16,7 +16,6 @@ h1 {
   font-family: "Milonga", serif;
   font-weight: 400;
   color: aliceblue;
-  
 }
 
 header {
@@ -27,7 +26,6 @@ header {
   display: flex;
   flex-direction: row;
 }
-
 
 .container {
   background-color: rgb(62, 62, 61);
@@ -75,7 +73,6 @@ nav a:hover {
   justify-content: space-between;
   padding-bottom: 30px;
 }
-
 
 .logo-saturn {
   width: 69px;
@@ -145,7 +142,6 @@ p {
   align-items: flex-start;
 }
 
-
 .fun-text {
   max-width: 600px;
   font-family: "Milonga", serif;
@@ -211,4 +207,3 @@ footer img {
 footer .container {
   padding: 2px;
 }
-
